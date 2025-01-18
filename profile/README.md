@@ -4,6 +4,41 @@ We’re excited to announce that **Cosmology** has rebranded as **Hyperweb**! �
 
 Our new GitHub organization is: [**hyperweb-io**](https://github.com/hyperweb-io)
 
+🎥 Watch the [Hyperweb announcement](https://www.youtube.com/watch?v=a_G2_KXRf1Y&list=PL_XyHnlG9MMvekTCbbJArAOwVlkCY54V5&index=2)
+
+---
+
+# Interchain JavaScript Stack (InterchainJS)
+
+A unified toolkit for building applications and smart contracts in the Interchain ecosystem with JavaScript. 
+
+| [Developer Portal](https://cosmology.zone): Quick Start | [Hyperweb Discord](https://discord.com/invite/xh3ZwHj2qQ): Support & Community | [GitHub Discussions](https://github.com/orgs/hyperweb-io/discussions): Technical Hub |
+|:---:|:---:|:---:|
+
+A unified toolkit for building applications and smart contracts in the Interchain ecosystem ⚛️
+
+| Category             | Tools                                                                                                                  | Status                                                                                                 |
+|----------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **UI Kits**          | [**Interchain UI**](https://github.com/cosmology-tech/interchain-ui)                                                   | ![UI Kits](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhyperweb-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Fproducts%2Finterchain-ui%2Ftotal.json) |
+| **Wallet Connectors**| [**Interchain Kit**](https://github.com/hyperweb-io/interchain-kit)<sup>new</sup>, [**Cosmos Kit**](https://github.com/cosmology-tech/cosmos-kit) | ![Wallet Connectors](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhyperweb-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Fproducts%2Fcosmos-kit%2Ftotal.json) |
+| **Signers**          | [**InterchainJS**](https://github.com/hyperweb-io/interchainjs)<sup>new</sup>, [**CosmJS**](https://github.com/cosmos/cosmjs) | ![Signers](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhyperweb-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Fproducts%2Fcosmos-kit%2Ftotal.json) |
+| **SDK**              | [**Telescope**](https://github.com/cosmology-tech/telescope)                                                          | ![SDK](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhyperweb-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Fproducts%2Ftelescope%2Ftotal.json) |
+| **Starter Kits**     | [**Create Interchain App**](https://github.com/hyperweb-io/create-interchain-app)<sup>new</sup>, [**Create Cosmos App**](https://github.com/cosmology-tech/create-cosmos-app) | ![Starter Kits](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhyperweb-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Fproducts%2Fcreate-cosmos-app%2Ftotal.json) |
+| **CosmWasm Contracts** | [**@cosmwasm/ts-codegen**](https://github.com/CosmWasm/ts-codegen)                                                   | ![CosmWasm Contracts](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhyperweb-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Fproducts%2Fcosmwasm%2Ftotal.json) |
+| **TypeScript Smart Contracts** | [**Create Hyperweb App**](https://github.com/hyperweb-io/create-hyperweb-app)                              | ![TypeScript Smart Contracts](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhyperweb-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Fproducts%2Fhyperwebjs%2Ftotal.json) |
+| **Testing**          | [**Starship**](https://github.com/cosmology-tech/starship)                                                             | ![Testing](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhyperweb-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Fproducts%2Fstarship%2Ftotal.json) |
+| **Chain Registry**   | [**Chain Registry**](https://github.com/hyperweb-io/chain-registry), [**Utils**](https://www.npmjs.com/package/@chain-registry/utils), [**Client**](https://www.npmjs.com/package/@chain-registry/client) | ![Chain Registry](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhyperweb-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Fproducts%2Fchain-registry%2Ftotal.json) |
+
+---
+
+# Interchain JavaScript Stack Announcement
+
+🎥 Watch the [Interchain JS presentation](https://www.youtube.com/watch?v=locvOlLDoVY&list=PL_XyHnlG9MMvekTCbbJArAOwVlkCY54V5&index=1).
+
+<a href="https://www.youtube.com/watch?v=locvOlLDoVY&list=PL_XyHnlG9MMvekTCbbJArAOwVlkCY54V5&index=1">
+<img width="400px" src="https://github.com/user-attachments/assets/9d34000e-56ff-4e83-8e4d-612bc79712f4" />   
+</a>
+
 ---
 
 ## What Does This Rebrand Mean?  
@@ -34,3 +69,6 @@ All the tools and projects you know and love from Cosmology are now part of the 
 To the amazing Cosmology community: thank you for being part of our journey. With Hyperweb, we’re taking everything you love to the next level—and we’re thrilled to have you with us.  
 
 Let’s build the future, together. 🚀  
+
+
+
