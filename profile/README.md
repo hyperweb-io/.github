@@ -8,7 +8,7 @@ Our new GitHub organization is: [**hyperweb-io**](https://github.com/hyperweb-io
 
 ---
 
-# Interchain JavaScript Stack (InterchainJS)
+# Interchain JavaScript Stack
 
 A unified toolkit for building applications and smart contracts in the Interchain ecosystem with JavaScript. 
 
