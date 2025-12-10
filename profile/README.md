@@ -40,8 +40,8 @@ We’re thrilled to share that [**Cosmology** has rebranded as **Hyperweb**](htt
 
 A unified toolkit for building applications and smart contracts in the Interchain ecosystem with JavaScript. 
 
-| [Developer Portal](https://hyperweb.io): Quick Start | [GitHub Discussions](https://github.com/orgs/hyperweb-io/discussions): Technical Hub |
-|:---:|:---:|
+| [Developer Portal](https://hyperweb.io): Quick Start | 
+|:---:|
 
 A unified toolkit for building applications and smart contracts in the Interchain ecosystem ⚛️
 
