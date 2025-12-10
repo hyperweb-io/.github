@@ -2,23 +2,23 @@
 
 <p align="center" width="100%">
    <img src="https://raw.githubusercontent.com/hyperweb-io/.github/refs/heads/main/assets/logo.svg" alt="hyperweb" width="80"><br />
-   <a href="https://github.com/hyperweb-io/lib-count">
+   <a href="https://github.com/constructive-io/lib-count">
       <img height="20" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fconstructive-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Flib-count%2Ftotal_downloads.json"/>
    </a>
-   <a href="https://github.com/hyperweb-io/lib-count">
+   <a href="https://github.com/constructive-io/lib-count">
       <img height="20" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fconstructive-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Flib-count%2Fmonthly_downloads.json"/>
    </a>
-   <a href="https://github.com/hyperweb-io/lib-count">
+   <a href="https://github.com/constructive-io/lib-count">
       <img height="20" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fconstructive-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Flib-count%2Fweekly_downloads.json"/>
    </a>
    <br>
-   <a href="https://github.com/hyperweb-io/lib-count">
+   <a href="https://github.com/constructive-io/lib-count">
       <img height="20" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fconstructive-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Flib-count%2Flaunchql_category.json"/>
    </a>
-   <a href="https://github.com/hyperweb-io/lib-count">
+   <a href="https://github.com/constructive-io/lib-count">
       <img height="20" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fconstructive-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Flib-count%2Fhyperweb_category.json"/>
    </a>
-   <a href="https://github.com/hyperweb-io/lib-count">
+   <a href="https://github.com/constructive-io/lib-count">
       <img height="20" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fconstructive-io%2Flib-count%2Fmain%2Foutput%2Fbadges%2Flib-count%2Futils_category.json"/>
    </a>
 </p>
