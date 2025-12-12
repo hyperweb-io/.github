@@ -24,12 +24,10 @@
 </p>
 
 
-## 🚀 Cosmology is Now Hyperweb!  
+## Welcome to Hyperweb!  
 
-We’re thrilled to share that [**Cosmology** has rebranded as **Hyperweb**](https://hyperweb.io/blog/01-28-2025-journey-from-cosmology-to-hyperweb)! 🎉  
-
-🔗 **New GitHub Organization:** [**hyperweb-io**](https://github.com/hyperweb-io)  
-🌐 **New Website:** [**hyperweb.io**](https://hyperweb.io)  
+🔗 **GitHub Organization:** [**hyperweb-io**](https://github.com/hyperweb-io)  
+🌐 **Website:** [**hyperweb.io**](https://hyperweb.io)  
 
 📺 **Watch the [Hyperweb Announcement](https://www.youtube.com/watch?v=a_G2_KXRf1Y&list=PL_XyHnlG9MMvekTCbbJArAOwVlkCY54V5&index=2)**  
 
